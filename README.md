@@ -1,7 +1,6 @@
-﻿# [Eleventy Html5UP Astral](https://eleventy-html5up-astral.appseed.us)
+# [Eleventy Html5UP Astral](https://appseed.us/static-site/eleventy-html5up-astral)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Astral Design  
-
+Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Astral Design - [Live DEMO](https://eleventy-html5up-astral.appseed.us) 
 
 - Design: [HTML5up Astral](https://html5up.net/astral)
 - [11ty](https://www.11ty.io/)
@@ -22,6 +21,7 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Astral
 ## App Links
 
 - [Eleventy Html5UP Astral](https://eleventy-html5up-astral.appseed.us) - Live DEMO
+- [Eleventy Html5UP Astral](https://appseed.us/static-site/eleventy-html5up-astral) - Product Info
 
 <br />
 
@@ -48,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Astral](https://eleventy-html5up-astral.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Astral](https://appseed.us/static-site/eleventy-html5up-astral) - provided by **AppSeed**
